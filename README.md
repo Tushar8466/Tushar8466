@@ -1,132 +1,21 @@
-# 👋 Hey, I'm Tushar Singla  
-### 🚀 Full-Stack Developer | Next.js Engineer | GSAP & 3D Web | AI Enthusiast
+# 💫 About Me:
+👋 Hi, I'm Tushar  <br>💻 I'm currently working on Data Structures & Algorithms  <br>🤝 I'm looking to collaborate on web development projects  <br>🛠️ I'm looking for help with advanced DSA & system design  <br>🌱 I'm currently learning React, GSAP & Backend development  <br>💬 Ask me about Python, JavaScript & problem solving  <br>⚡ Fun fact: I enjoy debugging more than writing code!
 
-<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=900&color=6366F1&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Next.js+%26+React+Specialist;GSAP+Animations+%26+3D+Web;AI+Enthusiast;Problem+Solver" />
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Tushar Singla) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Tusharsingla) 
 
-<br />
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=flat&logo=react) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=flat&logo=jinja&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Tushar8466&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Tushar8466&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar8466&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=6366F1&style=flat" />
-
-</div>
-
----
-
-## 🧠 About Me
-
-I’m a **Full-Stack Developer** focused on building **high-performance**, **visually engaging**, and **scalable web applications**.
-
-I love combining **engineering + design + animations** to create experiences that feel smooth, modern, and intuitive.
-
-- ⚛️ React & **Next.js** specialist  
-- 🎨 **GSAP animations**, micro-interactions & 3D UI  
-- 🤖 AI-powered product exploration  
-- ⚙️ Scalable backend systems  
-- 🎯 Goal: Build meaningful and delightful digital products  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Tushar8466&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Tushar8466&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🧩 Tech Stack
-
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
-</p>
-
-### ✨ Animations & 3D
-<p>
-  <img src="https://greensock.com/uploads/monthly_2023_01/gsap-logo.svg" height="48" title="GSAP" />
-  <img src="https://skillicons.dev/icons?i=threejs" />
-  <img src="https://raw.githubusercontent.com/spline-design/spline-docs/main/public/favicon.ico" height="48" title="Spline" />
-</p>
-
-### ⚙️ Backend & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,mysql" />
-</p>
-
-### 🧰 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel" />
-</p>
-
----
-
-## 🛠️ Featured Projects
-
-### 🏥 Doctor Appointment Management System  
-**Next.js • SQL • Authentication**
-- Role-based dashboards (Doctor / Patient)
-- Secure booking & appointment flow
-- Optimized queries & clean UI
-
-### 💰 Crypto Virtual Trading Platform  
-**React • APIs • Real-Time Data**
-- Live crypto prices & market insights
-- Virtual trading & portfolio tracking
-- Analytics-focused dashboard
-
-### 🌌 AI Astrology Companion  
-**AI • Personalization**
-- AI-generated personalized insights
-- Interactive, user-friendly interface
-- Data-driven recommendations
-
-### 🎨 Animated Portfolio Website  
-**Next.js • GSAP • Spline**
-- Smooth page transitions & scroll animations
-- 3D visuals with Spline
-- Performance-optimized UI animations
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&count_private=true" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
-
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
-
-</div>
-
----
-
-## 🧠 What I Value
-
-- ⚡ Performance & scalability
-- 🎯 Clean, maintainable code
-- 🎨 Polished UI & smooth animations
-- 🧪 Continuous learning & experimentation
-- 🧩 Solving real-world problems
-
----
-
-## 🤝 Connect With Me
-
-<p>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 💬 Personal Motto
-
-> *“Make it work. Make it right. Make it fast. Make it beautiful.”*
-
----
-
-⭐ **If you like my work, consider starring my repositories!**
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
