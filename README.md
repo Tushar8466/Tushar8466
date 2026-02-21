@@ -1,4 +1,4 @@
-# 💫 About Me:
+[# 💫 About Me:
 👋 Hi, I'm Tushar  <br>💻 I'm currently working on Data Structures & Algorithms  <br>🤝 I'm looking to collaborate on web development projects  <br>🛠️ I'm looking for help with advanced DSA & system design  <br>🌱 I'm currently learning React, GSAP & Backend development  <br>💬 Ask me about Python, JavaScript & problem solving  <br>⚡ Fun fact: I enjoy debugging more than writing code!
 
 
@@ -19,3 +19,4 @@
 [![](https://visitcount.itsvg.in/api?id=Tushar8466&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+](https://www.linkedin.com/in/tushar-singla-aab67b387/)
