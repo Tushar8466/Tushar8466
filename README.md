@@ -98,7 +98,7 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="[https://www.linkedin.com/in/harsh-hirawat-b657061b7](https://www.linkedin.com/in/tushar-singla-aab67b387/)" target="_blank">
+  <a href="https://www.linkedin.com/in/tushar-singla-aab67b387/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
   </a>
   &nbsp;&nbsp;
