@@ -23,7 +23,30 @@
 
 ## 🛠️ Tech Stack
 
-[![JavaScript][js-badge]][js-link] [![Python][python-badge]][python-link] [![TypeScript][ts-badge]][ts-link][![HTML][html-badge]][html-link] [![CSS][css-badge]][css-link] [![React][react-badge]][react-link] [![Bootstrap][bootstrap-badge]][bootstrap-link] [![Tailwind][tailwind-badge]][tailwind-link] [![Next.js][nextjs-badge]][nextjs-link] [![Node.js][node-badge]][node-link] [![Express][express-badge]][express-link] [![Django][django-badge]][django-link] [![Netlify][netlify-badge]][netlify-link] [![Vercel][vercel-badge]][vercel-link] [![MongoDB][mongodb-badge]][mongodb-link] [![GitHub Actions][gha-badge]][gha-link] [![Git][git-badge]][git-link] [![Docker][docker-badge]][docker-link] [![GitHub][github-badge]][github-link] [![Figma][figma-badge]][figma-link] [![Notion][notion-badge]][notion-link] 
+## 🚀 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+[![TypeScript][ts-badge]][ts-link]
+[![Figma][figma-badge]][figma-link]
+[![GSAP][gsap-badge]][gsap-link]
+[![Three.js][threejs-badge]][threejs-link]
+[![React][react-badge]][react-link]
+[![Vue][vue-badge]][vue-link]
+[![Express][express-badge]][express-link]
+[![Mongoose][mongoose-badge]][mongoose-link]
+[![Next.js][nextjs-badge]][nextjs-link]
+[![MySQL][mysql-badge]][mysql-link]
+[![HTML][html-badge]][html-link]
+[![CSS][css-badge]][css-link]
+[![Django][django-badge]][django-link]
+[![Git][git-badge]][git-link]
+[![GitHub][github-badge]][github-link]
+[![Notion][notion-badge]][notion-link]
+[![n8n][n8n-badge]][n8n-link]
 
 
 <details>
@@ -115,4 +138,74 @@
 Created with ❤️ by Tushar
 
 ---
+
+
+
+<!-- TypeScript -->
+[ts-badge]: https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript
+[ts-link]: https://www.typescriptlang.org/
+
+<!-- Figma -->
+[figma-badge]: https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma
+[figma-link]: https://www.figma.com/
+
+<!-- GSAP -->
+[gsap-badge]: https://img.shields.io/badge/GSAP-000?style=for-the-badge&logo=greensock
+[gsap-link]: https://greensock.com/gsap/
+
+<!-- Three.js -->
+[threejs-badge]: https://img.shields.io/badge/Three.js-000?style=for-the-badge&logo=three.js
+[threejs-link]: https://threejs.org/
+
+<!-- React -->
+[react-badge]: https://img.shields.io/badge/React-000?style=for-the-badge&logo=react
+[react-link]: https://react.dev/
+
+<!-- Vue -->
+[vue-badge]: https://img.shields.io/badge/Vue-000?style=for-the-badge&logo=vue.js
+[vue-link]: https://vuejs.org/
+
+<!-- Express -->
+[express-badge]: https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express
+[express-link]: https://expressjs.com/
+
+<!-- Mongoose -->
+[mongoose-badge]: https://img.shields.io/badge/Mongoose-000?style=for-the-badge&logo=mongoose
+[mongoose-link]: https://mongoosejs.com/
+
+<!-- Next.js -->
+[nextjs-badge]: https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js
+[nextjs-link]: https://nextjs.org/
+
+<!-- MySQL -->
+[mysql-badge]: https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql
+[mysql-link]: https://www.mysql.com/
+
+<!-- HTML -->
+[html-badge]: https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5
+[html-link]: https://developer.mozilla.org/en-US/docs/Web/HTML
+
+<!-- CSS -->
+[css-badge]: https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3
+[css-link]: https://developer.mozilla.org/en-US/docs/Web/CSS
+
+<!-- Django -->
+[django-badge]: https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django
+[django-link]: https://www.djangoproject.com/
+
+<!-- Git -->
+[git-badge]: https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git
+[git-link]: https://git-scm.com/
+
+<!-- GitHub -->
+[github-badge]: https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github
+[github-link]: https://github.com/
+
+<!-- Notion -->
+[notion-badge]: https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=notion
+[notion-link]: https://www.notion.so/
+
+<!-- n8n -->
+[n8n-badge]: https://img.shields.io/badge/n8n-000?style=for-the-badge&logo=n8n
+[n8n-link]: https://n8n.io/
 
