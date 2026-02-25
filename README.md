@@ -2,7 +2,7 @@
   <img src="./gif/mario.gif" alt="Banner" width="100%"/>
 </p>
 
-<h1 align="center">👋 Hi, I'm Tushar Singlat</h1>
+<h1 align="center">👋 Hi, I'm Tushar Singla</h1>
 
 
 
