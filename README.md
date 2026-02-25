@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./gif/mario.gif" alt="Banner" width="100%"/>
+  <img src="./mario.gif" alt="Banner" width="100%"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Tushar Singla</h1>
