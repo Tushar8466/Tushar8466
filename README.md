@@ -1,34 +1,121 @@
-Preview
-Markdown
-Copy
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Tushar Singla
-======================================================================================================================================
-
-I am a passionate front developer from India
---------------------------------------------
-
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [redesignedJourney](http://https://github.com/Tushar8466/redesigned-journey)
-* ✉️  You can contact me at [tusharsingla22222@gmail.com](mailto:tusharsingla22222@gmail.com)
-* 🚀  I'm currently working on [RedbullRacing](http://https://redbullracing.vercel.app/)
-* 🧠  I'm currently learning NextJS
-* 👥  I'm looking to collaborate on Projects related to react with Tailwind or CSS
-
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" alt="Go" title="Go" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" alt="Sublime Text" title="Sublime Text" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" alt="Vue" title="Vue" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="Sass" title="Sass" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" alt="Redux" title="Redux" width="36" height="36" /></a><a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored-dark.svg" alt="Babel" title="Babel" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadcnui-colored-dark.svg" alt="Shadcn/ui" title="Shadcn/ui" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" alt="Django" title="Django" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
+<p align="center">
+  <img src="./gif/mario.gif" alt="Banner" width="100%"/>
 </p>
 
-### Socials
+<h1 align="center">👋 Hi, I'm Tushar Singlat</h1>
 
-<p align="left"> <a href="https://www.github.com/Tushar8466" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="http://www.medium.com/https://medium.com/@tusharsingla22222" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" title="Medium" /> </picture> </a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/tushar-singla-aab67b387/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-### Badges
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Tushar8466"><img src="https://github-readme-stats.vercel.app/api?username=Tushar8466&show_icons=true&hide=&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Tushar8466's GitHub stats" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4D9EFF&center=true&vCenter=true&width=600&lines=🚀+Passionate+Developer;💡+AI+%26+OpenCV+Enthusiast;🌐+Full-Stack+Engineer" alt="Typing SVG" />
+</p>
 
-<a href="https://github.com/Tushar8466" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar8466&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
 
-<b>Top Repositories</b>
+## ⚡ About Me
+- 🎓 B.Tech CSE student at **Newton School of Technology x Ajeenkya DY Patil University, Pune**
+- 🤖 Currently working on **Computer Vision & AI projects**
+- 🌱 Exploring **Machine Learning, Web Development, and Cloud**
+- ✨ Love building projects that merge AI with real-world applications
+- 🎯 Goal: To become a **versatile AI-driven full-stack innovator**
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+---
+
+## 🛠️ Tech Stack
+
+[![JavaScript][js-badge]][js-link] [![Python][python-badge]][python-link] [![TypeScript][ts-badge]][ts-link][![HTML][html-badge]][html-link] [![CSS][css-badge]][css-link] [![React][react-badge]][react-link] [![Bootstrap][bootstrap-badge]][bootstrap-link] [![Tailwind][tailwind-badge]][tailwind-link] [![Next.js][nextjs-badge]][nextjs-link] [![Node.js][node-badge]][node-link] [![Express][express-badge]][express-link] [![Django][django-badge]][django-link] [![Netlify][netlify-badge]][netlify-link] [![Vercel][vercel-badge]][vercel-link] [![MongoDB][mongodb-badge]][mongodb-link] [![GitHub Actions][gha-badge]][gha-link] [![Git][git-badge]][git-link] [![Docker][docker-badge]][docker-link] [![GitHub][github-badge]][github-link] [![Figma][figma-badge]][figma-link] [![Notion][notion-badge]][notion-link] 
+
+
+<details>
+
+### Programming Languages
+[![JavaScript][js-badge]][js-link] [![Python][python-badge]][python-link] [![TypeScript][ts-badge]][ts-link] 
+
+### Frontend Development
+[![HTML][html-badge]][html-link] [![CSS][css-badge]][css-link] [![React][react-badge]][react-link] [![Bootstrap][bootstrap-badge]][bootstrap-link] [![Tailwind][tailwind-badge]][tailwind-link] [![Next.js][nextjs-badge]][nextjs-link] [
+
+### Backend Development
+[![Node.js][node-badge]][node-link] [![Express][express-badge]][express-link] [![Django][django-badge]][django-link] 
+
+### Cloud & Deployment
+[![Netlify][netlify-badge]][netlify-link] [![Vercel][vercel-badge]][vercel-link]
+
+### Databases
+ [![MongoDB][mongodb-badge]][mongodb-link] [![Supabase][supabase-badge]][supabase-link] [![PostgreSQL][postgres-badge]][postgres-link]
+
+### DevOps & Tools
+[![GitHub Actions][gha-badge]][gha-link] [![Git][git-badge]][git-link] [![Docker][docker-badge]][docker-link] [![GitHub][github-badge]][github-link]
+
+
+### UI/UX & Design
+[![Figma][figma-badge]][figma-link] [![Blender][blender-badge]][blender-link] 
+
+
+
+---
+</details>
+
+
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tushar8466&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar8466&layout=compact&theme=radical" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Tushar8466&theme=radical" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tushar8466&theme=react-dark"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+| Project | Tech Stack |
+|---------|------------|
+| 🌐 [Portfolio](https://github.com/GreenHacker420/portfolio) | ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) |
+| ✋ [Gesture Canvas](https://github.com/GreenHacker420/gesture-canvas) | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-0052FF?style=for-the-badge&logo=mediapipe&logoColor=white) |
+| 🧠 [MindMend](https://github.com/GreenHacker420/MindMend) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=artificial-intelligence&logoColor=white) ![Mental Health](https://img.shields.io/badge/Mental_Health-4CAF50?style=for-the-badge&logo=healthicons&logoColor=white) |
+| 🤖 [3D Gesture Game](https://github.com/GreenHacker420/3d_Game_Tensorflow) | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Babylon.js](https://img.shields.io/badge/Babylon.js-0081C9?style=for-the-badge&logo=babylon.js&logoColor=white) ![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Hand Tracking](https://img.shields.io/badge/Hand_Tracking-0052FF?style=for-the-badge&logo=mediapipe&logoColor=white) |
+| 📊 [Stock Analysis Platform](https://github.com/GreenHacker420/stock-analysis-platform) | ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=nextauth&logoColor=white) ![Gemini AI](https://img.shields.io/badge/Gemini_AI-FF6F00?style=for-the-badge&logo=artificial-intelligence&logoColor=white) ![Finance](https://img.shields.io/badge/Finance-4CAF50?style=for-the-badge) |
+| 📦 [Tally Sync ERP](https://github.com/GreenHacker420/Tally_sync) | ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Automation](https://img.shields.io/badge/Automation-FF6F00?style=for-the-badge&logo=zapier&logoColor=white) |
+| ✅ [Task Manager + Frontend](https://github.com/GreenHacker420/task-manager-server) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) |
+
+---
+
+
+## 💡 Fun Fact / Quote
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=FF5733&width=600&lines=Currently+Learning+AI+Optimization;Exploring+Full-Stack+Projects;Contributing+to+Open-Source" alt="Learning Badge"/>
+</p>
+
+---
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/harsh-hirawat-b657061b7" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/GreenHacker420" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:harsh@greenhacker.tech" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/harsh_hirawat/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40"/>
+  </a>
+</p>
+
+Created with ❤️ by Tushar
+
+---
+
