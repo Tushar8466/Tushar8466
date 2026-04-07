@@ -78,6 +78,19 @@
 ---
 </details>
 
+---
+
+## 🌍 Open Source Contributions
+
+> Proud to have contributed to **[JSON Schema](https://json-schema.org/)** — the open standard powering data validation across the web!
+
+| # | Repository | PR | Status |
+|---|------------|-----|--------|
+| 1 | 🔷 [json-schema-org/website](https://github.com/json-schema-org/website) | [#2329](https://github.com/json-schema-org/website/pull/2329) | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=git&logoColor=white) |
+| 2 | 🔷 [json-schema-org/website](https://github.com/json-schema-org/website) | [#2299](https://github.com/json-schema-org/website/pull/2299) | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=git&logoColor=white) |
+| 3 | 🔷 [json-schema-org/website](https://github.com/json-schema-org/website) | [#2282](https://github.com/json-schema-org/website/pull/2282) | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=git&logoColor=white) |
+
+---
 
 ## 📊 GitHub Analytics
 <p align="center">
@@ -101,7 +114,7 @@
 
 ## 💡 Fun Fact / Quote
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+  <i>"Code is like humor. When you have to explain it, it's bad."</i>
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=FF5733&width=600&lines=Currently+Learning+AI+Optimization;Exploring+Full-Stack+Projects;Contributing+to+Open-Source" alt="Learning Badge"/>
@@ -198,4 +211,5 @@ Created with ❤️ by Tushar
 <!-- n8n -->
 [n8n-badge]: https://img.shields.io/badge/n8n-000?style=for-the-badge&logo=n8n
 [n8n-link]: https://n8n.io/
+
 
