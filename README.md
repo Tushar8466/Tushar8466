@@ -94,6 +94,7 @@ Copy
 | 3 | 🔷 [json-schema-org/website](https://github.com/json-schema-org/website) | [#2282](https://github.com/json-schema-org/website/pull/2282) | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=git&logoColor=white) |
 | 4 | 🟠 [XplnHUB/xplnhub-insight-py](https://github.com/XplnHUB/xplnhub-insight-py) | [#53](https://github.com/XplnHUB/xplnhub-insight-py/pull/53) | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=git&logoColor=white) |
 | 5 | 🟠 [XplnHUB/xplnhub-insight-py](https://github.com/XplnHUB/xplnhub-insight-py) | [#51](https://github.com/XplnHUB/xplnhub-insight-py/pull/51) | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=git&logoColor=white) |
+| 6 | 🟠 [XplnHUB/xplnhub-insight-py](https://github.com/XplnHUB/xplnhub-insight-py) | [#56](https://github.com/XplnHUB/xplnhub-insight-py/pull/56) | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=git&logoColor=white) |
  
 ---
  
