@@ -175,7 +175,7 @@ const tushar = {
 <!-- ## 🐙 Octodex -->
 
 <div align="center">
-  <img src="./octocat.png" width="250"/>
+  <img src="./octocat.png" width="400"/>
   <!-- <img src="https://octodex.github.com/images/topguntocat.png" width="250"/>
   <img src="https://octodex.github.com/images/baracktocat.jpg" width="250"/>
   <img src="https://octodex.github.com/images/manufacturetocat.png" width="250"/>
