@@ -169,7 +169,6 @@ const tushar = {
 
 ---
 
----
 
 ## 🐙 Octodex
 
@@ -179,8 +178,8 @@ const tushar = {
   <img src="./octocat2.png" width="250" alt="Octocat 2"/>
   <img src="./octocat3.png" width="250" alt="Octocat 3"/>
   <br/>
-  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="250" alt="Daftpunktocat"/>
-  <img src="https://octodex.github.com/images/jetpacktocat.png" width="250" alt="Jetpacktocat"/>
+  <!-- <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="250" alt="Daftpunktocat"/>
+  <img src="https://octodex.github.com/images/jetpacktocat.png" width="250" alt="Jetpacktocat"/> -->
 </div>
 
 ---
