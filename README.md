@@ -32,7 +32,7 @@ Copy
 ---
 
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="400" alt="animated hello">
 
 </div>
 ## 🧑‍💻 About Me
@@ -166,22 +166,23 @@ const tushar = {
 
 ---
 
----
+<!-- ---
 
-## 🐙 Octodex
+<!-- ## 🐙 Octodex -->
 
 <div align="center">
-  <img src="https://octodex.github.com/images/topguntocat.png" width="250"/>
+  <img src="./octocat.png" width="250"/>
+  <!-- <img src="https://octodex.github.com/images/topguntocat.png" width="250"/>
   <img src="https://octodex.github.com/images/baracktocat.jpg" width="250"/>
   <img src="https://octodex.github.com/images/manufacturetocat.png" width="250"/>
   <img src="https://octodex.github.com/images/saritocat.png" width="250"/>
   <img src="https://octodex.github.com/images/octoliberty.png" width="250"/>
-  <img src="https://octodex.github.com/images/nyantocat.gif" width="250"/>
+  <img src="https://octodex.github.com/images/nyantocat.gif" width="250"/> -->
 </div>
 
 </div>
 
----
+--- -->
 
 ## 🤝 Let's Connect
 
