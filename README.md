@@ -1,19 +1,23 @@
 Readme · MD
 Copy
 
-<p align="center">
+<!-- <p align="center">
   <img src="./mario.gif" alt="Banner" width="100%"/>
+</p> -->
+<p align="center">
+  <img src = "https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%" />
 </p>
  
 <div align="center">
 
+
 <!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Tushar%20Singla&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Open%20Source%20Contributor&descAlignY=58&descSize=16&animation=fadeIn"/>
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Tushar%20Singla&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Open%20Source%20Contributor&descAlignY=58&descSize=16&animation=fadeIn"/> -->
 
 <!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
+<!-- <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=7DF9FF&center=true&vCenter=true&width=700&lines=🚀+Building+AI-Powered+Applications;🧠+Computer+Vision+%26+ML+Enthusiast;🌐+Full-Stack+Engineer+(MERN+%2B+Next.js);🔬+Turning+Ideas+into+Real-World+Solutions" alt="Typing SVG" />
-</a>
+</a> -->
 
 <!-- PROFILE BADGES -->
 <p>
@@ -27,6 +31,10 @@ Copy
 
 ---
 
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
+
+</div>
 ## 🧑‍💻 About Me
 
 ```typescript
@@ -57,43 +65,19 @@ const tushar = {
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="65" title="HTML5"/>
   &nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="65" title="CSS3"/>
-</div>
-
-> 🟠 **HTML5** = `212257465` &nbsp;|&nbsp; 🔵 **CSS3** = `212257467` — both confirmed animated ✅
-
-<br/>
-
-### ⚛️ Frontend — Animated Moving Logos
-
-<div align="center">
+  &nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="65" title="React"/>
+  &nbsp;&nbsp;
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="65" title="Next.js"/>
+  &nbsp;&nbsp;
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="65" title="Next.js"/>
   &nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="65" title="Next.js"/>
   &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="65" title="Figma"/>
-</div>
-
-<br/>
-
-### 🔧 Backend & Database — Animated Moving Logos
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="65" title="MongoDB"/>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="65" title="Next.js"/>
   &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="65" title="MySQL"/>
 </div>
 
-<br/>
-
-### ☁️ Tools & Platforms — Animated Moving Logos
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="65" title="VS Code"/>
-  &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="65" title="GitHub"/>
-</div>
-
-<br/>
 
 ### 🏷️ Also In My Stack — Badges
 
@@ -177,29 +161,8 @@ const tushar = {
   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="65" title="LinkedIn"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/Tushar8466" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="65" title="GitHub"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:tusharsingla22222@gmail.com" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" width="65" title="Gmail / Email"/>
-</a>
-&nbsp;&nbsp;
-<a href="#" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="65" title="Instagram"/>
-</a>
-&nbsp;&nbsp;
-<a href="#" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/235294008-ed8de58b-d4d0-4790-aa81-a39fdc8a1e50.gif" width="65" title="Twitter / X"/>
-</a>
-&nbsp;&nbsp;
-<a href="#" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="65" title="Discord"/>
-</a>
 
-</div>
 
-> 💡 Replace `#` with your actual social profile URLs!
 
 ---
 
