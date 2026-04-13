@@ -203,6 +203,24 @@ const tushar = {
 
 ---
 
+---
+
+## 🐙 Octodex
+
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/octocat/daftpunktocat-guy.gif" width="150"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/octocat/stormtroopocat.png" width="150"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/octocat/octobiwan.jpg" width="150"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/octocat/nyantocat.gif" width="150"/>
+
+</div>
+
+<p align="center">
+  ✨ Powered by GitHub Octodex — because coding should be fun!
+</p>
+
 ## 🤝 Let's Connect
 
 <div align="center">
