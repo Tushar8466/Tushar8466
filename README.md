@@ -106,6 +106,8 @@ const tushar = {
 
 > 🏆 Proud contributor to **[JSON Schema](https://json-schema.org/)** — the open standard powering data validation across the web!
 
+<div align="center">
+
 | # | Project | Pull Request | Status |
 |:-:|---------|:------------:|:------:|
 | 1 | 🔷 **json-schema-org/website** | [PR #2329](https://github.com/json-schema-org/website/pull/2329) | ![Merged](https://img.shields.io/badge/✓_Merged-8957e5?style=flat-square) |
@@ -114,6 +116,8 @@ const tushar = {
 | 4 | 🟠 **XplnHUB/xplnhub-insight-py** | [PR #56](https://github.com/XplnHUB/xplnhub-insight-py/pull/56) | ![Merged](https://img.shields.io/badge/✓_Merged-8957e5?style=flat-square) |
 | 5 | 🟠 **XplnHUB/xplnhub-insight-py** | [PR #53](https://github.com/XplnHUB/xplnhub-insight-py/pull/53) | ![Merged](https://img.shields.io/badge/✓_Merged-8957e5?style=flat-square) |
 | 6 | 🟠 **XplnHUB/xplnhub-insight-py** | [PR #51](https://github.com/XplnHUB/xplnhub-insight-py/pull/51) | ![Merged](https://img.shields.io/badge/✓_Merged-8957e5?style=flat-square) |
+
+</div>
 
 ---
 
