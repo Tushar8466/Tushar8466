@@ -207,19 +207,16 @@ const tushar = {
 
 ## 🐙 Octodex
 
-
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/octocat/daftpunktocat-guy.gif" width="150"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/octocat/stormtroopocat.png" width="150"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/octocat/octobiwan.jpg" width="150"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/octocat/nyantocat.gif" width="150"/>
+  <img src="https://octodex.github.com/images/topguntocat.png" width="230"/>
+  <img src="https://octodex.github.com/images/baracktocat.jpg" width="230"/>
+  <img src="https://octodex.github.com/images/manufacturetocat.png" width="230"/>
+  <img src="https://octodex.github.com/images/saritocat.png" width="230"/>
+</div>
 
 </div>
 
-<p align="center">
-  ✨ Powered by GitHub Octodex — because coding should be fun!
-</p>
+---
 
 ## 🤝 Let's Connect
 
