@@ -208,10 +208,12 @@ const tushar = {
 ## 🐙 Octodex
 
 <div align="center">
-  <img src="https://octodex.github.com/images/topguntocat.png" width="230"/>
-  <img src="https://octodex.github.com/images/baracktocat.jpg" width="230"/>
-  <img src="https://octodex.github.com/images/manufacturetocat.png" width="230"/>
-  <img src="https://octodex.github.com/images/saritocat.png" width="230"/>
+  <img src="https://octodex.github.com/images/topguntocat.png" width="250"/>
+  <img src="https://octodex.github.com/images/baracktocat.jpg" width="250"/>
+  <img src="https://octodex.github.com/images/manufacturetocat.png" width="250"/>
+  <img src="https://octodex.github.com/images/saritocat.png" width="250"/>
+  <img src="https://octodex.github.com/images/octoliberty.png" width="250"/>
+  <img src="https://octodex.github.com/images/nyantocat.gif" width="250"/>
 </div>
 
 </div>
