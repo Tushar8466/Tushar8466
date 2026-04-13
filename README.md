@@ -169,7 +169,6 @@ const tushar = {
 
 ---
 
----
 
 ## 🐙 Octodex
 
