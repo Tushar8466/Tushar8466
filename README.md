@@ -170,23 +170,21 @@ const tushar = {
 
 ---
 
-<!-- ---
+---
 
-<!-- ## 🐙 Octodex -->
+## 🐙 Octodex
 
 <div align="center">
-  <img src="./octocat.png" width="400"/>
-  <!-- <img src="https://octodex.github.com/images/topguntocat.png" width="250"/>
-  <img src="https://octodex.github.com/images/baracktocat.jpg" width="250"/>
-  <img src="https://octodex.github.com/images/manufacturetocat.png" width="250"/>
-  <img src="https://octodex.github.com/images/saritocat.png" width="250"/>
-  <img src="https://octodex.github.com/images/octoliberty.png" width="250"/>
-  <img src="https://octodex.github.com/images/nyantocat.gif" width="250"/> -->
+  <img src="./octocat.png" width="250" alt="Octocat"/>
+  <img src="./octocat1.png" width="250" alt="Octocat 1"/>
+  <img src="./octocat2.png" width="250" alt="Octocat 2"/>
+  <img src="./octocat3.png" width="250" alt="Octocat 3"/>
+  <br/>
+  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="250" alt="Daftpunktocat"/>
+  <img src="https://octodex.github.com/images/jetpacktocat.png" width="250" alt="Jetpacktocat"/>
 </div>
 
-</div>
-
---- -->
+---
 
 ## 🤝 Let's Connect
 
