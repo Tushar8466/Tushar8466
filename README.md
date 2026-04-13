@@ -15,12 +15,19 @@ Copy
  
 ---
  
-## ⚡ About Me
-- 🎓 B.Tech CSE student at **Newton School of Technology x Ajeenkya DY Patil University, Pune**
-- 🤖 Currently working on **Computer Vision & AI projects**
-- 🌱 Exploring **Machine Learning, Web Development, and Cloud**
-- ✨ Love building projects that merge AI with real-world applications
-- 🎯 Goal: To become a **versatile AI-driven full-stack innovator**
+## 🧑‍💻 About Me
+
+```typescript
+const tushar = {
+  name: "Tushar Singla",
+  role: "AI-Driven Full-Stack Developer",
+  education: "B.Tech CSE @ Newton School of Technology × Ajeenkya DY Patil University, Pune",
+  currentFocus: ["Computer Vision", "Machine Learning", "Full-Stack Web Dev"],
+  techPhilosophy: "Merge AI with real-world applications to create meaningful impact",
+  openTo: ["Collaborations", "Open Source", "Internships", "Hackathons"],
+  funFact: "I debug with console.log and I'm not ashamed 😄"
+};
+```
  
 ---
  
