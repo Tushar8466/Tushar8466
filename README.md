@@ -140,14 +140,6 @@ const tushar = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tushar8466&theme=tokyonight&no-frame=false&row=1&column=7&margin-w=8" width="95%"/>
-</div>
-
----
-
 ## 💡 Quote I Live By
 
 <div align="center">
