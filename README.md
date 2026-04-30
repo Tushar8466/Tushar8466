@@ -148,14 +148,14 @@ const tushar = {
 
 ---
 
-## 🌐 Find Me On — Animated Social Icons
 
-<div align="center">
+
+<!-- <div align="center">
 
 <a href="https://www.linkedin.com/in/tushar-singla-aab67b387/" target="_blank">
   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="65" title="LinkedIn"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp; -->
 
 
 
